@@ -9,7 +9,7 @@ class Product
 
     public void Display()
     {
-        Console.WriteLine($"ID: {ID}, Tên sản phẩm: {ProductName}, Giá: {Price:C}");
+        Console.WriteLine($"ID: {ID}, Ten san pham: {ProductName}, Gia: {Price:C}");
     }
 }
 
